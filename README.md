@@ -1,18 +1,149 @@
-<h1 align="center">Hi 👋, I'm Danish Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danish-k997" alt="danish-k997" /></a> </p>
+# Hi 👋 I'm Danish Khan
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danish khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish khan" height="30" width="40" /></a>
-<a href="https://instagram.com/danish_khan_969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danish_khan_969" height="30" width="40" /></a>
+### 🚀 Full Stack Developer | MERN Stack | Next.js | TypeScript
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=danish-k997&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+- 🚀 Full Stack Developer
+- 🌱 Currently learning **Next.js, PostgreSQL, Prisma, TanStack Query & TanStack Form**
+- 💻 Building scalable Full Stack applications
+- ⚡ Passionate about clean code and modern web development
+- 📚 Learning something new every day
+- 🎯 Goal: Become a Professional Full Stack Developer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/danish-khan-65a61b38b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/danish_khan_969/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danish-k997&show_icons=true&locale=en&layout=compact" alt="danish-k997" /></p>
+# 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danish-k997&show_icons=true&locale=en" alt="danish-k997" /></p>
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,git,github,vscode,npm" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danish-k997&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-k997&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=danish-k997&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danish-k997&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 👥 User Management Dashboard | CRUD application with Add, Update, Delete, Pagination | React, TypeScript, TanStack Query, HeroUI |
+| 🔐 Authentication System | Login, Signup, Protected Routes | Next.js, PostgreSQL, Prisma, JWT |
+| 🛒 Full Stack E-Commerce | Shopping Cart, Admin Panel, Payments | MERN Stack, Redux, Stripe |
+| ✍️ Blog Platform | Modern Full Stack Blogging Website | Next.js, PostgreSQL, Prisma |
+
+> 🔗 Repository Links will be added soon.
+
+---
+
+# 📚 Currently Learning
+
+```txt
+✅ Next.js
+✅ TypeScript
+✅ PostgreSQL
+✅ Prisma ORM
+✅ TanStack Query
+✅ TanStack Form
+✅ Authentication
+✅ System Design Basics
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become a Professional Full Stack Developer
+- 💼 Get My First Developer Job
+- 📦 Build 20+ Real World Projects
+- ⚡ Master Next.js
+- 🗄 Master PostgreSQL
+- 🔥 Learn System Design
+- 🌍 Contribute to Open Source
+- 💰 Start Freelancing
+
+---
+
+# ⚡ Coding Profiles
+
+- 💻 LeetCode *(Coming Soon)*
+- 🏆 CodeChef *(Coming Soon)*
+- ⚡ HackerRank *(Coming Soon)*
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile ⭐
+
+### Happy Coding 🚀
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!;Happy+Coding!;Keep+Learning!;See+You+Again!" />
+
+</div>
