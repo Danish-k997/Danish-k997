@@ -135,9 +135,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danish-k997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danish-k997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&v=1&cache_seconds=86400" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-k997&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-k997&layout=compact&theme=tokyonight&hide_border=true&v=1&cache_seconds=86400" />
 </p>
 
 ---
