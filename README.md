@@ -29,11 +29,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/danish-khan-65a61b38b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com/danish_khan_969" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
@@ -41,6 +41,26 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
+
+## 🏗️ Featured Projects
+
+### 🛒 [Sci-Fai Store (E-commerce Platform)](https://si-fi-store-07.vercel.app)
+> A full-stack e-commerce platform built with custom backend architecture and advanced product filtering mechanics.
+
+* **Tech Stack:** MERN Stack (MongoDB, Express.js, React, Node.js)
+* **Highlights:** Engineered backend API logic, dynamic product filtering algorithms, and secure user authentication flows.
+* 🔗 **[Live Demo](https://si-fi-store-07.vercel.app)** 
+
+<br/>
+
+### 🩺 [Doctor Web Portal](https://web-for-docter.vercel.app)
+> A dedicated web portal designed to streamline medical appointments and healthcare management.
+
+* **Tech Stack:** React, Modern UI/UX
+* **Highlights:** Built a responsive, accessible, and intuitive user interface focusing on a seamless experience for patients and medical professionals.
+* 🔗 **[Live Demo](https://web-for-docter.vercel.app)**
 
 ---
 
@@ -118,30 +138,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danish-k997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
   &nbsp;
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-k997&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Danish-k997&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danish-k997&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danish-k997&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
